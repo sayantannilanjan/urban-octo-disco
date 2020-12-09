@@ -1,0 +1,25 @@
+.header-class{
+    height: 50px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+
+footer{
+    height: 30px;
+    background-color: cornflowerblue;
+    color: white;
+    text-align: left;
+    margin-top: 90%;
+    
+}
+img{
+    float: left;
+}
+nav{
+    height: 50px;
+    background-color: deepskyblue;
+    text-align: right;
+}
+    
